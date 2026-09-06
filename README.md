@@ -1,0 +1,1 @@
+# map-camera-pro-config
